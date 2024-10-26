@@ -1,7 +1,7 @@
 # Hacknotts 24 Project
 
 import time
-import OS
+import os
 import RPI.GPIO as GPIO
 import Adafruit_CharLCD as LCD
 
@@ -40,7 +40,7 @@ def loop():
 
 
 def startup():
-	lcd.message("Hello\nWorld!)
+	lcd.message("Hello\nWorld!")
 	time.sleep(5.0)
 	lcd.clear()
 	loop()
