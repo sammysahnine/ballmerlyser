@@ -1,6 +1,7 @@
-//the code is entirely created by: SHEEKAR BANERJEE (at December 2017) 
+//the code is SOMEWHAT created by: SHEEKAR BANERJEE (at December 2017) 
 //Dept. of CSE, IUBAT 
 //AI-ML-IOT Solution Engineer and Researcher 
+//it is also created by JACK BABEY, WILL WRIGHT and SAMMY SAHNINE as part of HackNotts 24!!!!!
 const int AOUTpin= A0; 
 const int DOUTpin= D3; 
 
